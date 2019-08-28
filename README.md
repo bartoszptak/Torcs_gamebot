@@ -1,8 +1,9 @@
 # Torcs gamebot
 
 ## Links
-* [Visual Torcs server github](https://github.com/giuse/vtorcs/tree/nosegfault)
+* [Visual Torcs server](https://github.com/giuse/vtorcs/tree/nosegfault)
 * [Plib](http://plib.sourceforge.net/download.html)
+* [GYM_TORCS client](https://github.com/ugo-nama-kun/gym_torcs)
 
 ## Visual Torcs server requirements
 1. `sudo apt-get install libglib2.0-dev  libgl1-mesa-dev libglu1-mesa-dev  freeglut3-dev  libplib-dev  libopenal-dev libalut-dev libxi-dev libxmu-dev libxrender-dev  libxrandr-dev libpng-dev`
